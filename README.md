@@ -45,6 +45,8 @@ Customer_Churn_Prevention/
 ├── templates/
 │   └── index.html                 # Frontend UI
 ├── deployment.png                 # App preview
+├── requirements.txt               # Requirements
+├── setup.py                       # Package Installation
 └── README.md
 ```
 
