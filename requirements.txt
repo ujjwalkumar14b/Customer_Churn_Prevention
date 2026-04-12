@@ -1,0 +1,9 @@
+joblib
+flask
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+python-dotenv
+#-e .
